@@ -15,6 +15,7 @@ function Login() {
     >
       <h1>Login</h1>
       <TextField required id="outlined-required" label="Email" />
+      <br/>
       <TextField required id="outlined-required" label="Password" />
       <br/><br/>
       <Button variant="contained">Login</Button>
